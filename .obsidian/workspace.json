@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Python & Software Engineering/Python Security Engineering mentor prompt.md",
+                "file": "12. Professional Ethical Hacking, Penetration Testing & Offensive Security/Professional Ethical Hacking, Penetration Testing & Offensive Security Mentor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Security Engineering mentor prompt"
+              "title": "Professional Ethical Hacking, Penetration Testing & Offensive Security Mentor"
             }
           }
         ],
@@ -198,15 +198,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "9654e21990d42821",
+  "active": "6780fa355b5210a3",
   "lastOpenFiles": [
+    "3. Networking/Module 1 - Lesson 1.md",
+    "12. Professional Ethical Hacking, Penetration Testing & Offensive Security/Professional Ethical Hacking, Penetration Testing & Offensive Security Mentor.md",
+    "12. Professional Ethical Hacking, Penetration Testing & Offensive Security",
+    "2. Linux & Bash/Bash scripts.md",
+    "-z \"$FILE\".md",
+    "2. Linux & Bash/Lesson 2 — The Linux Filesystem- Names, Inodes, and Data.md",
+    "2. Linux & Bash/Lesson 1 - From Keyboard to kernel. What happens when you press enter?.md",
+    "2. Linux & Bash/Linux mentor prompt.md",
+    "1. Python & Software Engineering/Python Security Engineering mentor prompt.md",
     "README.md",
     "11. System Design, Enterprise Architecture & Security Architecture/System Design, Enterprise Architecture & Security Architecture Mentor.md",
     "10. Career, Portfolio, Resume & Interview Mentor/Career, Portfolio, Resume & Interview Mentor.md",
     "9. HTB, CTF and home labs/Hack the box, CTF, Labs & Real world practice mentor.md",
     "8. AI Engineering, Security & secure AI system/AI Engineering, AI Security & Secure AI Systems Mentor.md",
     "7. Detection Engineering, SOC, DFIR & Threat Hunting/Detection Engineering, SOC, DFIR & Threat Hunting Mentor.md",
-    "Untitled",
     "11. System Design, Enterprise Architecture & Security Architecture",
     "10. Career, Portfolio, Resume & Interview Mentor",
     "4. Web Security/Web Security & Secure Development Mentor Prompt.md",
@@ -215,8 +223,6 @@
     "7. Detection Engineering, SOC, DFIR & Threat Hunting",
     "5. Windows & Active Directory/Windows, active directory & enterprise security engineer mentor prompt.md",
     "3. Networking/Network Security & Engineering Mentor Prompt.md",
-    "1. Python & Software Engineering/Python Security Engineering mentor prompt.md",
-    "2. Linux & Bash/Linux mentor prompt.md",
     "Whiteboard.canvas",
     "Projects",
     "Daily Notes",
