@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Web Security/Web Security & Secure Development Mentor Prompt.md",
+                "file": "2. Linux & Bash/Lesson 3 — Permissions; Who Actually Says \"Permission Denied\"?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Security & Secure Development Mentor Prompt"
-            }
-          },
-          {
-            "id": "9654e21990d42821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12. Professional Ethical Hacking, Penetration Testing & Offensive Security/Professional Ethical Hacking, Penetration Testing & Offensive Security Mentor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Professional Ethical Hacking, Penetration Testing & Offensive Security Mentor"
+              "title": "Lesson 3 — Permissions; Who Actually Says \"Permission Denied\"?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,36 +183,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "6780fa355b5210a3",
+  "active": "69c402ae20660509",
   "lastOpenFiles": [
-    "3. Networking/Module 1 - Lesson 1.md",
-    "12. Professional Ethical Hacking, Penetration Testing & Offensive Security/Professional Ethical Hacking, Penetration Testing & Offensive Security Mentor.md",
-    "12. Professional Ethical Hacking, Penetration Testing & Offensive Security",
-    "2. Linux & Bash/Bash scripts.md",
-    "-z \"$FILE\".md",
+    "2. Linux & Bash/Bash scripts - Lesson 2.md",
+    "2. Linux & Bash/Lesson 3 — Permissions; Who Actually Says \"Permission Denied\"?.md",
     "2. Linux & Bash/Lesson 2 — The Linux Filesystem- Names, Inodes, and Data.md",
+    "1. Python & Software Engineering/Lesson 1 – Engineering Thinking- Design Before Code.md",
+    "1. Python & Software Engineering/Lesson 3 – Modules, Packages & Project Organization.md",
     "2. Linux & Bash/Lesson 1 - From Keyboard to kernel. What happens when you press enter?.md",
-    "2. Linux & Bash/Linux mentor prompt.md",
-    "1. Python & Software Engineering/Python Security Engineering mentor prompt.md",
-    "README.md",
-    "11. System Design, Enterprise Architecture & Security Architecture/System Design, Enterprise Architecture & Security Architecture Mentor.md",
+    "2. Linux & Bash/Bash scripts - Lesson 1.md",
+    "Untitled/AI-Augmented Professional English Communication Mentor.md",
+    "4. Web Security/Web Security & Secure Development Mentor Prompt.md",
+    "-z \"$FILE\".md",
+    "10. Career, Portfolio, Resume & Interview Mentor/12. Quarterly Goals.md",
+    "Untitled 1",
+    "10. Career, Portfolio, Resume & Interview Mentor/11. Learning Backlog.md",
+    "10. Career, Portfolio, Resume & Interview Mentor/10. Interview Preparing.md",
+    "10. Career, Portfolio, Resume & Interview Mentor/9. Technical Writing.md",
+    "10. Career, Portfolio, Resume & Interview Mentor/8. Open Source Contributions.md",
+    "10. Career, Portfolio, Resume & Interview Mentor/7. Portfolio Projects.md",
+    "10. Career, Portfolio, Resume & Interview Mentor/6. Professional Skills.md",
+    "10. Career, Portfolio, Resume & Interview Mentor/5. Core Technical Skills.md",
+    "10. Career, Portfolio, Resume & Interview Mentor/4. Supporting Roles.md",
+    "10. Career, Portfolio, Resume & Interview Mentor/3. Primary Target Role.md",
     "10. Career, Portfolio, Resume & Interview Mentor/Career, Portfolio, Resume & Interview Mentor.md",
-    "9. HTB, CTF and home labs/Hack the box, CTF, Labs & Real world practice mentor.md",
-    "8. AI Engineering, Security & secure AI system/AI Engineering, AI Security & Secure AI Systems Mentor.md",
-    "7. Detection Engineering, SOC, DFIR & Threat Hunting/Detection Engineering, SOC, DFIR & Threat Hunting Mentor.md",
+    "10. Career, Portfolio, Resume & Interview Mentor/2. 5-year Goal.md",
+    "10. Career, Portfolio, Resume & Interview Mentor/1. Career Vision.md",
+    "3. Networking/Module 2 — The TCP-IP Model.md",
+    "Untitled",
+    "3. Networking/Module 1 - Lesson 1 - Why Networks Exist.md",
+    "1. Python & Software Engineering/Lesson 2 – Thinking in Data.md",
+    "12. Professional Ethical Hacking, Penetration Testing & Offensive Security",
     "11. System Design, Enterprise Architecture & Security Architecture",
     "10. Career, Portfolio, Resume & Interview Mentor",
-    "4. Web Security/Web Security & Secure Development Mentor Prompt.md",
     "8. AI Engineering, Security & secure AI system",
-    "6. Cloud, Containers, Kubernetes & DevSecOps/Cloud, containers, DevSecOps & Modern Infrastructure Security Mentor prompt.md",
     "7. Detection Engineering, SOC, DFIR & Threat Hunting",
-    "5. Windows & Active Directory/Windows, active directory & enterprise security engineer mentor prompt.md",
-    "3. Networking/Network Security & Engineering Mentor Prompt.md",
     "Whiteboard.canvas",
     "Projects",
     "Daily Notes",
-    "Notes",
-    "6. Cloud, Containers, Kubernetes & DevSecOps",
-    "5. Windows & Active Directory"
+    "Notes"
   ]
 }

@@ -229,3 +229,32 @@ Remember these key distinctions:
 A helpful way to think about it is:
 
 > **The shell decides _what_ should run. The kernel decides _how_ it runs safely on the system.**
+
+The shell parses the command, resolves what to execute (built-in, alias, function, or external command), and asks the kernel to execute it. The kernel creates the process and enforces permissions.
+
+eg: cat file.txt
+
+```
+Shell
+
+↓
+
+Kernel starts cat
+
+↓
+
+cat asks kernel
+
+↓
+
+Kernel reads disk
+
+↓
+
+Kernel gives bytes
+
+↓
+
+cat prints bytes
+```
+
